@@ -1,4 +1,4 @@
-![Philips Forks](https://github.com/philips-labs/.github/blob/6bc9e3af63ee22fad827c8f6c3a3c98cea8c2533/profile/images/philips-banner.png)
+![Philips Forks](https://github.com/philips-forks/.github/blob/4196b9a658b4359b3978c4702965a4812c558f96/profile/images/philips-banner.png)
 
 This organization will be used for [Philips](https://philips.com) Forks repositories. When working on forks, they keep their visibility settings.
 
